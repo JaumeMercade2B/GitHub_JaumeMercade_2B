@@ -3,3 +3,4 @@ Pràctica de creació de repositori
 
 Holaf
 
+Editat a nivell remot jej
