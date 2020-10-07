@@ -3,4 +3,5 @@ Pràctica de creació de repositori
 
 Holaf
 
-Editat a nivell local jej
+Editat a nivell local y remot jejjej 
+
